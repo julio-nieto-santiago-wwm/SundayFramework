@@ -1,0 +1,22 @@
+{
+  "name": "SundayFramework",
+  "version": "0.1.0",
+  "summary": "A short description of SundayFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/julio-nieto-santiago-wwm/SundayFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "julio-nieto-santiago-wwm": "julio.nieto@worldwidemobility.io"
+  },
+  "source": {
+    "git": "https://github.com/julio-nieto-santiago-wwm/SundayFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SundayFramework/Classes/**/*"
+}

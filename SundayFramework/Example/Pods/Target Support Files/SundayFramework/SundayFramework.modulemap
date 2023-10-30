@@ -1,0 +1,6 @@
+framework module SundayFramework {
+  umbrella header "SundayFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

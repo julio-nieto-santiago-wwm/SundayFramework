@@ -1,0 +1,16 @@
+PODS:
+  - SundayFramework (0.1.0)
+
+DEPENDENCIES:
+  - SundayFramework (from `../`)
+
+EXTERNAL SOURCES:
+  SundayFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SundayFramework: d6a6e0f0e4ebd79267cb78dfe422dd2a8400297c
+
+PODFILE CHECKSUM: 773520019921ea9bdf1907527a5ba738c313744c
+
+COCOAPODS: 1.13.0
